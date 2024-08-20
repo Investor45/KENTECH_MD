@@ -1,17 +1,17 @@
 ## KENTECH_MD 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Lucky+md+Created+by+Fredie.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
- <img alt="LUCKY MD V5" height="300" src="https://telegra.ph/file/60cd0a18bda777a41ffe3.jpg">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+kentech+md+Created+by+Kentech.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://whatsapp.com/channel/0029VaX6kguGk1Fr135z610I">
+ <img alt="KENTECH MD" height="300" src="https://telegra.ph/file/32c911b4b4ac4eaed7810.jpg">
   
 </h1> 
-<p align="center">l introduce <b>LUCKY_MD</b>, a powerful simple WhatsApp bot </p>
+<p align="center">l introduce <b>KENTECH_MD</b>, a powerful simple WhatsApp bot </p>
 
 </p>
   <p align="center">
-<a href="https://github.com/fred1e?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
-<a href="https://github.com/Fred1e/lucky_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/lucky_md?&style=social"></a>
-<a href="https://github.com/Fred1e/lucky_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/lucky_md?style=social"></a>
-<a href="https://github.com/Fred1e/lucky_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/lucky_md?label=Watching&style=social"></a>
+<a href="https://github.com/Investor45?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Investor45?label=Followers&style=social"></a>
+<a href="https://github.com/Investor45/kentech_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Investor45/kentech_md?&style=social"></a>
+<a href="https://github.com/Investor45/kentech_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Investor45/kentech_md?style=social"></a>
+<a href="https://github.com/Investor45/kentech_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Investor45/kentech_md?label=Watching&style=social"></a>
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Investor45}/count.svg" alt="Kentech_md :: Visitor's Count"/></p>
@@ -19,12 +19,10 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Fred1e/Lucky_md"><b>Lucky_md</b></a> Support Deploy On...
+  <a href="https://github.com/Investor45/KENTECH_MD"><b>KENTECH_MD</b></a> Support Deploy On...
 </p>
 
-<p align="center">
-  <a href="https://github.com/Fred1e/Lucky_Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Lucky_Md/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Investor45/KENTECH_MD/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://youtu.be/izoxfW3anrU"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
@@ -42,14 +40,14 @@
 
 
 
-## HOW TO DEPLOY LUCKY MD
+## HOW TO DEPLOY KENTECH_MD 
 
 
 ## 1.FIRST STEP 
-## Fork Lucky Md V5 Repo
+## Fork Kentech_Md Repo
 
 
-<a href="https://github.com/Fred1e/LUCKY_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkgreen&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/Investor45/KENTECH_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkgreen&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 star✨ my repo if you like this bot🤖
 
@@ -74,7 +72,7 @@ star✨ my repo if you like this bot🤖
 
 **2. If You Have Account On Heroku**
 -<h1 align="center">       
-   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Lucky_Md/tree/main)***
+   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Investor45/KENTECH_MD/tree/main)***
 
 ##
 
@@ -82,34 +80,38 @@ star✨ my repo if you like this bot🤖
 
 CONTACT DEVELOPER ON WHATSAPP 
 
-<a href="https://wa.link/4d9cpj" target="_blank">
+<a href="https://wa.me/237670217260" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ fredie tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
  
-<a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ FREDIE_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VaX6kguGk1Fr135z610I" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ KEN_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+<a
+href="https://chat.whatsapp.com/LcMZEQJA1ps7w0oXP3NzHt" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ KEN_TECH  GROUP -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
 ## License
 
-The WhatsApp Bot LUCKY🍀_MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot KENTECH_MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-🌟 THANK YOU FOR CHOOSING LUCKY🍀_MD 🌟
+🌟 THANK YOU FOR CHOOSING KENTECH_MD 🌟
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## DEVELOPERS :
 
-- [**FREDIE TECH**](https://github.com/Fred1e)
+- [**KEN TECH**](https://github.com/Investor45)
 - [**ғʀᴇᴄʏʙᴇʀ ᴍᴅ**](https://github.com/Frecyber)
-- [**BELTAH TECH**](https://github.com/BELTAHMD)
-- [**JOEL TECH**](https://github.com/joeljamestech)
+- [**FREDIE TECH**](https://github.com/Fred1e)
 - [**Developers YT**](https://www.youtube.com/@freeonlinetvT1)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-★THANK YOU GOD FOR THAT MOMENT🙏. ©
+★THANKS TO GOD🙏. ©
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
      
