@@ -66,26 +66,26 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏━━ LUCKY MD V5 ━━┓
+┏━━ KENTECH MD ━━┓
 ┃   Mode: ${mode}
 ┃   User : ${s.OWNER_NAME}
 ┃
-┣━lucky md V5 new vision 𒈒━➠
-┗━━━𒈒by ғʀᴇᴅɪᴇ ᴛᴇᴄʜ 𒈒━━┛\n\n`;
+┣━kentech md new vision 𒈒━➠
+┗━━━𒈒by Ken ᴛᴇᴄʜ 𒈒━━┛\n\n`;
 
 
     
 
 let menuMsg = `
 ┏━━━━━━━━━━━━━━┓
-┣❏lucky md v5  
-┣❏by ғʀᴇᴅɪᴇ ᴛᴇᴄʜ
+┣❏kentech md  
+┣❏by ken ᴛᴇᴄʜ
 ┗━━━━━━━━━━━━━━┛\n
 
 
 
 
-lucky md v5 cmds𒈒
+Kentech md cmds𒈒
 `;
 
 
@@ -97,7 +97,7 @@ lucky md v5 cmds𒈒
         for (const cmd of coms[cat]) {
 
             menuMsg += `
-┃🍄 ${cmd}`;
+┃❏ ${cmd}`;
 
         }
 
@@ -112,13 +112,13 @@ lucky md v5 cmds𒈒
 
 
 ︎┏━━━━━━━━━━━━━━┓
-️┣❏lucky md V5 bot 
-┣❏by fredi
+️┣❏kentech md bot 
+┣❏by kentech&fredie
 ┗━━━━━━━━━━━━━━┛\n
 
 
 ┏━━━━━━━━━━━━━━┓
-┃powered by fredi
+┃powered by kentech
 ┗━━━━━━━━━━━━━━┛\n
 
 
