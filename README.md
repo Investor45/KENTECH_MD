@@ -1,4 +1,4 @@
-## LUCKY MD V5
+## KENTECH_MD 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Lucky+md+Created+by+Fredie.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
  <img alt="LUCKY MD V5" height="300" src="https://telegra.ph/file/60cd0a18bda777a41ffe3.jpg">
@@ -14,7 +14,7 @@
 <a href="https://github.com/Fred1e/lucky_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/lucky_md?label=Watching&style=social"></a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Fred1e}/count.svg" alt="Lucky_md :: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Investor45}/count.svg" alt="Kentech_md :: Visitor's Count"/></p>
 
 ---
 
