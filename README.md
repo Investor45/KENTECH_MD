@@ -81,7 +81,7 @@ star✨ my repo if you like this bot🤖
 CONTACT DEVELOPER ON WHATSAPP 
 
 <a href="https://wa.me/237670217260" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ fredie tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ ken tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
@@ -93,6 +93,11 @@ CONTACT DEVELOPER ON WHATSAPP
 <a
 href="https://chat.whatsapp.com/LcMZEQJA1ps7w0oXP3NzHt" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ KEN_TECH  GROUP -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+<a
+href="https:// wa.me/255752593977" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Fredie contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
 ## License
