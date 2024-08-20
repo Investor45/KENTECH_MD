@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/32C911B4B4AC4EAED7810.JPG,https://telegra.ph/file/e08448ee596dc2c5a407d.jpg",
+      "value":"https://telegra.ph/file/32C911B4B4AC4EAED7810.JPG,https://telegra.ph/file/e08448ee596dc2c5a407d.jpg,https://telegra.ph/file/2b0171f1b1e930fca68cc.jpg",
       "required":false
        
      },
