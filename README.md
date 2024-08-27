@@ -47,7 +47,7 @@
 ## Fork Kentech_Md Repo
 
 
-<a href="https://github.com/Investor45/KENTECH_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkgreen&style=for-the-badge&logo=msi" width="150" height="38.45"/></a></p>
+<a href="https://github.com/Investor45/KENTECH_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=orange&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 star✨ my repo if you like this bot🤖
 
@@ -58,18 +58,18 @@ star✨ my repo if you like this bot🤖
  GET SESSION ID BY
  
 
-<a href="https://kentech-bot-94e151714d34.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=orange&style=for-the-badge&logo=msi" width="150" height="38.45"/></a></p>
+<a href="https://kentech-bot-94e151714d34.herokuapp.com/qr"><img title="Tap QR Here" src="https://img.shields.io/badge/QR CODE-h?color=orange&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
  
-<a href="https://kentech-bot-94e151714d34.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=orange&style=for-the-badge&logo=msi" width="150" height="38.45"/></a></p>
+<a href="https://kentech-bot-94e151714d34.herokuapp.com/"><img title="Session Site Here" src="https://img.shields.io/badge/PAIRING CODE-h?color=orange&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
 ## 3.THIRD STEP 
 **1. If You Don't Have An Account On Heroku**
 
 <a href="https://signup.heroku.com">
- <img src="https://img.shields.io/badge/Create%20Account%20Now-orange?style=for-the-badge&logo=heroku" width="150" height="38.45"/></a></p>
+ <img src="https://img.shields.io/badge/Create%20Now-orange?style=for-the-badge&logo=heroku" width="100" height="38.45"/></a></p>
 
 **2. If You Have Account On Heroku**
        
