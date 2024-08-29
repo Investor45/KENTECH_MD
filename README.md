@@ -58,11 +58,11 @@ star✨ my repo if you like this bot🤖
  GET SESSION ID BY
  
 
-<a href="https://kentech-bot-94e151714d34.herokuapp.com/qr"><img title="Tap QR Here" src="https://img.shields.io/badge/QR CODE-h?color=orange&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://kentech-ses-61408fc21da1.herokuapp.com/qr"><img title="Tap QR Here" src="https://img.shields.io/badge/QR CODE-h?color=orange&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
  
-<a href="https://kentech-bot-94e151714d34.herokuapp.com/"><img title="Session Site Here" src="https://img.shields.io/badge/PAIRING CODE-h?color=orange&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://kentech-ses-61408fc21da1.herokuapp.com/"><img title="Session Site Here" src="https://img.shields.io/badge/PAIRING CODE-h?color=orange&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
 ## 3.THIRD STEP 
