@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Investor45/KENTECH_MD.git /root/zokou_BOt
+RUN git clone https://github.com/Luffy2ndAccount/Zokou-english-v.git /root/zokou_BOt
 WORKDIR /root/zokou_Bot/
 
 
@@ -22,4 +22,3 @@ COPY . .
 EXPOSE 5000
 
 CMD ["node", "index.js"]
-
