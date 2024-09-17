@@ -58,11 +58,11 @@ star✨ my repo if you like this bot🤖
  GET SESSION ID BY
  
 
-<a href="https://lucky-md-qycm.onrender.com"><img title="Tap QR Here" src="https://img.shields.io/badge/QR CODE-h?color=orange&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://fredietech.onrender.com"><img title="Tap QR Here" src="https://img.shields.io/badge/QR CODE-h?color=orange&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
  
-<a href="https://lucky-md-qycm.onrender.com"><img title="Session Site Here" src="https://img.shields.io/badge/PAIRING CODE-h?color=orange&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://fredietech.onrender.com"><img title="Session Site Here" src="https://img.shields.io/badge/PAIRING CODE-h?color=orange&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
 ## 3.THIRD STEP 
